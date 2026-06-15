@@ -4,6 +4,9 @@ A comprehensive repository of curated learning resources, certifications, career
 
 # 🚀 CSE Upskilling Resource Repository
 
+🔗 Google Sheet:
+https://docs.google.com/spreadsheets/d/1QphUgd_mLAVyp0PS1gPAAxktuELLkbQA58JGmwrxN2g/edit?usp=drivesdk
+
 ## 📌 Overview
 
 This repository provides a structured collection of learning resources, certifications, project ideas, career roadmaps, and placement preparation materials for Computer Science and Engineering students.
