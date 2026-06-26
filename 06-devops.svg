@@ -1,0 +1,31 @@
+<svg viewBox="0 0 480 460" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#555"/>
+    </marker>
+  </defs>
+  <style>
+    .box { fill:#eaf5ee; stroke:#4caf7d; stroke-width:2; rx:10; }
+    .first { fill:#fff3cd; stroke:#e0a800; stroke-width:2; rx:10; }
+    .label { fill:#222; font-size:15px; font-weight:bold; text-anchor:middle; }
+    .sub { fill:#555; font-size:11px; text-anchor:middle; }
+    .arrow { stroke:#555; stroke-width:2; fill:none; marker-end:url(#arrow); }
+    .title { fill:#222; font-size:18px; font-weight:bold; text-anchor:middle; }
+  </style>
+  <text x="240.0" y="28" class="title">DevOps</text>
+  <rect x="50.0" y="50" width="380" height="60" class="first"/>
+  <text x="240.0" y="74" class="label">Common Foundation</text>
+  <text x="240.0" y="94" class="sub">Basics+DSA, Maths, Web Dev/RDBMS</text>
+  <path d="M240.0,110 L240.0,148" class="arrow"/>
+  <rect x="50.0" y="150" width="380" height="60" class="box"/>
+  <text x="240.0" y="174" class="label">Version Control</text>
+  <text x="240.0" y="194" class="sub">Git, branching, GitHub workflows</text>
+  <path d="M240.0,210 L240.0,248" class="arrow"/>
+  <rect x="50.0" y="250" width="380" height="60" class="box"/>
+  <text x="240.0" y="274" class="label">CI/CD</text>
+  <text x="240.0" y="294" class="sub">GitHub Actions, Jenkins pipelines</text>
+  <path d="M240.0,310 L240.0,348" class="arrow"/>
+  <rect x="50.0" y="350" width="380" height="60" class="box"/>
+  <text x="240.0" y="374" class="label">Docker and Kubernetes</text>
+  <text x="240.0" y="394" class="sub">Containers, orchestration basics</text>
+</svg>

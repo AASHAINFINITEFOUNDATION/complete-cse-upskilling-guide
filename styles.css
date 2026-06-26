@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.roadmap {
+  margin: 10px 0;
+}
+
+.dropdown-btn {
+  background-color: #6c9;
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.dropdown-content {
+  display: none;
+  background-color: #eee;
+  padding: 10px;
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 5px;
+  font-size: 13px;
+  text-decoration: none;
+  color: #333;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown-content a.flowchart-link {
+  font-weight: bold;
+  color: #1a6b3c;
+  background-color: #eaf5ee;
+  border-radius: 4px;
+}
+
+.dropdown-content a.flowchart-link:hover {
+  background-color: #d4ecdc;
+}
+
+.show {
+  display: block;
+}
+
+.portfolio {
+  margin-top: 30px;
+  padding: 15px;
+  background: #ddd;
+  border-radius: 8px;
+}
