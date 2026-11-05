@@ -100,6 +100,8 @@ The goal is to help students build industry-relevant skills, prepare for interns
 * Interview Questions
 * Mock Interviews
 
+* [JobEmerge](https://www.jobemerge.work) — Freemium job-fit test, resume translator, and Markdown resume editor.
+
 ---
 
 ## 🏆 Features
@@ -139,3 +141,4 @@ If you find a useful learning resource, certification, project, or roadmap, feel
 If this repository helps you, consider giving it a star and sharing it with fellow students.
 
 Happy Learning! 🚀
+
